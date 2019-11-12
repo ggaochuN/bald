@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bald_article" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bald_article_crawler" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bald_base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bald_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bald_config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bald_eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bald_friend" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bald_gathering" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bald_manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bald_qa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bald_recruit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bald_search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bald_sms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bald_spit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bald_user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bald_user_crawler" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bald_web" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

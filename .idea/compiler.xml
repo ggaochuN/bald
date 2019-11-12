@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bald_common" />
+        <module name="bald_article_crawler" />
+        <module name="bald_spit" />
+        <module name="bald_search" />
+        <module name="bald_user" />
+        <module name="bald_manager" />
+        <module name="bald_base" />
+        <module name="bald_eureka" />
+        <module name="bald_recruit" />
+        <module name="bald_gathering" />
+        <module name="bald_article" />
+        <module name="bald_qa" />
+        <module name="bald_user_crawler" />
+        <module name="bald_config" />
+        <module name="bald_web" />
+        <module name="bald_friend" />
+        <module name="bald_sms" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="bald_article" options="-parameters" />
+      <module name="bald_article_crawler" options="-parameters" />
+      <module name="bald_base" options="-parameters" />
+      <module name="bald_common" options="-parameters" />
+      <module name="bald_config" options="-parameters" />
+      <module name="bald_eureka" options="-parameters" />
+      <module name="bald_friend" options="-parameters" />
+      <module name="bald_gathering" options="-parameters" />
+      <module name="bald_manager" options="-parameters" />
+      <module name="bald_qa" options="-parameters" />
+      <module name="bald_recruit" options="-parameters" />
+      <module name="bald_search" options="-parameters" />
+      <module name="bald_sms" options="-parameters" />
+      <module name="bald_spit" options="-parameters" />
+      <module name="bald_user" options="-parameters" />
+      <module name="bald_user_crawler" options="-parameters" />
+      <module name="bald_web" options="-parameters" />
+    </option>
+  </component>
+</project>
